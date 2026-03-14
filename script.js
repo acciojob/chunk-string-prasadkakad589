@@ -1,5 +1,5 @@
 function stringChop(str, size) {
-  // your code here
+	return str.split(size);
 }
 
 // Do not change the code below
